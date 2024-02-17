@@ -1,2 +1,2 @@
 # EDP
-
+Variables separables
